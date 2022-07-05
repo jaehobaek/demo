@@ -7,7 +7,7 @@ labels:
 app: demo
 service: demo
 spec:
-host: demo-spring-test-application.apps.paas.honecloud.co.kr
+host: demo-git-hict-hdst-visitor-dev.apps.dev.honecloud.co.kr/
 to:
 kind: Service
 name: demo
